@@ -1,0 +1,1 @@
+# exa_robot_gazebo_moveit_model
