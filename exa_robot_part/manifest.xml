@@ -1,0 +1,6 @@
+<package>
+  <description brief="exa_robot_part">exa_robot_part</description>
+  <depend package="gazebo" />
+  <author>me</author>
+  <license>BSD</license>
+</package>
